@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(218,103,56);
+    background-image: url(./BackgroundImage.jpeg);
+    background-repeat: no-repeat;
+    background-size: 900px;
+    background-position: center center;
+    background-attachment: fixed;
+    color: white;
+}
+
+.message{
+    margin :10px;
+    text-decoration: underline;
+    font-weight: bold;
+    
+}
+.SongName{
+    font-weight: bold;
+}
+
+#Movie{
+    border-radius: 50px;
+}
+
+/*リンクの色設定*/
+a:link { color: #ffffff; }
+a:visited { color: #51ff0025; }
+a:hover { color: #a72a2a; }
+a:active { color: #ff8000; }
