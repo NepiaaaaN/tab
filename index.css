@@ -9,8 +9,8 @@ body{
 }
 
 .message{
-    margin :10px;
-    text-decoration: underline;
+    margin :40px;
+    /* text-decoration: underline; */
     font-weight: bold;
 }
 .SongName{
