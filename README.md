@@ -1,4 +1,7 @@
-# tab　Update情報
+# Tab管理していきます
 
-- 2019/12/08
-    - SHANK / Life is... 追加
+- youtubeチャンネルはこちら
+    - https://www.youtube.com/channel/UCnlanuqMt9MnIv_BmncXBtQ?view_as=subscriber
+
+- Twitterはこちら
+    - @consomme_soup_
